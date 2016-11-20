@@ -1,0 +1,16 @@
+{"pwd": "789", "quanxian": "0", "name": "yuan", "huankuanri": "15", "zhuangtai": "0", "xiaofei": "0", "touzhi": "800000"}
+{"name":"liu","pwd":"123","quanxian":"1","touzhi":"200000","huankuanri":"16","zhuangtai":"0","xiaofei":"0"}
+{"name":"sun","pwd":"456","quanxian":"1","touzhi":"300000","huankuanri":"17","zhuangtai":"0","xiaofei":"0"}
+{"name":"zhai","pwd":"147","quanxian":"1","touzhi":"400000","huankuanri":"18","zhuangtai":"0","xiaofei":"0"}
+{"zhuangtai": "1", "touzhi": "50", "xiaofei": "0", "quanxian": "0", "name": "cctv", "huankuanri": "10", "pwd": "159"}
+{"huankuanri": "15", "touzhi": "80000", "pwd": "8888", "xiaofei": "-50", "name": "kill", "quanxian": "1", "zhuangtai": "1"}
+{"xiaofei": "0", "pwd": "5852", "huankuanri": "20", "touzhi": "6000", "zhuangtai": "0", "quanxian": "1", "name": "bbs"}
+{"huankuanri": "1", "quanxian": "1", "zhuangtai": "0", "pwd": "9999", "name": "ccav", "xiaofei": "0", "touzhi": "60"}
+{"zhuangtai": "0", "quanxian": "1", "name": "cctv6", "pwd": "777", "huankuanri": "12", "touzhi": "6000", "xiaofei": "0"}
+{"quanxian": "1", "xiaofei": "-20", "zhuangtai": "0", "pwd": "5555", "touzhi": "2000", "name": "cctv5", "huankuanri": "10"}
+{"xiaofei": "1000", "zhuangtai": "0", "name": "cctv3", "huankuanri": "10", "quanxian": "1", "pwd": "33333", "touzhi": "5000"}
+{"quanxian": "1", "touzhi": "50000", "name": "ccav1", "zhuangtai": "0", "pwd": "1111", "xiaofei": "-600", "huankuanri": "10"}
+{"pwd": "6666", "quanxian": "1", "xiaofei": "-6100", "zhuangtai": "0", "huankuanri": "16", "name": "ccav6", "touzhi": "3000"}
+{"pwd": "niuniu", "zhuangtai": "0", "huankuanri": "5", "name": "niu", "quanxian": "1", "xiaofei": "0", "touzhi": "3000"}
+{"pwd": "niuniu", "zhuangtai": "0", "huankuanri": "1", "name": "niuniu", "quanxian": "1", "xiaofei": "0", "touzhi": "6000"}
+{"xiaofei": "0", "touzhi": "3000", "pwd": "ccaa", "quanxian": "1", "huankuanri": "10", "zhuangtai": "0", "name": "ccaa"}

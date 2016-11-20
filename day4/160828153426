@@ -1,0 +1,6 @@
+{"name": "yuan", "xiaofei": "800", "touzhi": "800", "zhuangtai": "0", "pwd": "789", "huankuanri": "15", "quanxian": "0"}
+{"name":"liu","pwd":"123","quanxian":"1","touzhi":"200000","huankuanri":"16","zhuangtai":"0","xiaofei":"0"}
+{"name":"sun","pwd":"456","quanxian":"1","touzhi":"300000","huankuanri":"17","zhuangtai":"0","xiaofei":"0"}
+{"name":"zhai","pwd":"147","quanxian":"1","touzhi":"400000","huankuanri":"18","zhuangtai":"0","xiaofei":"0"}
+{"name": "cctv", "huankuanri": "10", "pwd": "159", "quanxian": "0", "touzhi": "50", "xiaofei": "0", "zhuangtai": "1"}
+{"quanxian": "1", "xiaofei": "0", "name": "kill", "zhuangtai": "0", "pwd": "8888", "huankuanri": "15", "touzhi": "80000"}
