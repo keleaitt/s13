@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="https://git.oschina.net/keleaitt" uploadOnCheckin="0ca04886-de1b-4a27-86f9-0fea4a691866">
+    <serverData>
+      <paths name="https://git.oschina.net/keleaitt">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="https://git.oschina.net/keleaitt" />
+  </component>
+</project>

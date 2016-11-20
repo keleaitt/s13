@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0ca04886-de1b-4a27-86f9-0fea4a691866" name="https://git.oschina.net/keleaitt" url="https://git.oschina.net/keleaitt">
+        <fileTransfer host="https://git.oschina.net/keleaitt" port="21" rootFolder="/s13" accessType="FTPS">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
