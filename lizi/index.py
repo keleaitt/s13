@@ -2,8 +2,8 @@
 # -*- coding:utf-8 -*-
 # Author: Yuan
 
-from zuoye.settings import ClassName
-from zuoye.settings import Path
+from lizi.settings import ClassName
+from lizi.settings import Path
 
 def execute():
 
