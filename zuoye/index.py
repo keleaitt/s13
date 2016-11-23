@@ -2,8 +2,8 @@
 # -*- coding:utf-8 -*-
 # Author: Yuan
 
-from settings import ClassName
-from settings import Path
+from zuoye.settings import ClassName
+from zuoye.settings import Path
 
 def execute():
 
