@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 # Author: Yuan
 
-from backend.commons import Foo
+from lizi.backend.commons import Foo
 
 class YuanFoo(Foo):
     def f1(self):
